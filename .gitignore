@@ -1,0 +1,7 @@
+data/
+outputs/arrays.npz
+outputs/*.npy
+outputs/*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
