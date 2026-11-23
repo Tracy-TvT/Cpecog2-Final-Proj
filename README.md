@@ -57,6 +57,3 @@ python app.py          # opens the Gradio app; predictions below 0.70 confidence
 python test_app.py     # valid / edge / invalid input tests (needs DATA_DIR for the leaf images)
 ```
 
-## AI tool use
-
-Claude (Anthropic) was used to write and run the code for runs R6 to R13, the final test evaluation, the Grad-CAM analysis and the demo.
